@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phân biệt các loại hạt cà phê, hạt cafe
-date: 2020-11-22 21:05:39 +0700
+date: 2020-11-23 01:01:00 +0700
 categories: general
 ---
 
@@ -11,13 +11,13 @@ Mỗi một loại hạt cà phê mang một đặc trưng riêng. Nếu như Ar
 
 Là những hạt cà phê có hình dạng tròn. Điều đặc biệt là trong một trái chỉ có duy nhất một hạt. Tuy có vị đắng gắt nhưng hương thơm thì vô cùng say đắm. Hàm lượng cafein cao, khi pha nước màu đen sánh. Những hạt cà phê Culi đã tích tụ những gì tinh túy nhất mà thiên nhiên đã giành cho vùng đất đỏ bazan.
 
-![Hạt cà phê Culi](/assets/posts/hat-ca-phe-culi.jpg)
+![Hạt cà phê Culi](/assets/posts/phan-biet-cac-hat-cafe/hat-ca-phe-culi.jpg)
 
 Cà phê Culi Robusta là loại cà phê có hương vị đậm đà hơn, đắng hơn, béo hơn, cafein nhiều hơn so với cà phê Robusta thông thường. Loại cà phê này rất thích hợp với những người thích cafe đắng đậm và thích sự sâu lắng.
 
 ## 2. Hạt cà phê Cherry.
 
-![Hạt cà phê Cherry](/assets/posts/hat-ca-phe-cherry.jpg)
+![Hạt cà phê Cherry](/assets/posts/phan-biet-cac-hat-cafe/hat-ca-phe-cherry.jpg)
 
 Cà phê Cherry hay còn gọi là cà phê mít, gồm có 2 giống là Liberica và Exelsa. Trong các loại hạt cà phê thì Cherry có giá trị thương phẩm thấp nhất do hạt không đều, khó chế biến và hương vị thất thường. Nhưng xét về mặt trồng trọt, nó lại là loại cà phê sinh trưởng khoẻ, chịu được hạn, ít đòi hỏi công chăm sóc, hầu như không bị sâu phá hoại. Vì vậy cà phê Cherry thường được trồng ở những vùng đất khô đầy gió và nắng của vùng cao nguyên.
 
@@ -35,7 +35,7 @@ Trong các loại hạt cà phê trên thì có hai loại đang trồng tại V
 
 Có vị nhẹ, mùi thơm quyến rũ, lưu luyến. Tuy nhiên hạt cà phê Moka có sản lượng rất thấp, giá trong nước không cao vì không xuất khẩu được, trong khi giá xuất rất cao, gấp 2 - 3 lần Robusta. Do trồng không đủ chi phí nên người nông dân ít trồng loại cà phê này.
 
-![Hạt cà phê Moka](/assets/posts/hat-ca-phe-moka.jpg)
+![Hạt cà phê Moka](/assets/posts/phan-biet-cac-hat-cafe/hat-ca-phe-moka.jpg)
 
 ### Hạt cà phê Catimor
 
@@ -53,7 +53,7 @@ Hạt cà phê Robusta có dạng hình bàn cầu tròn, thường có 2 hạt 
 
 ## 5. Sự phối trộn giữa cà phê Robusta và Arabica.
 
-![Hình ảnh hạt cà phê Arabica và Robusta](/assets/posts/hat-ca-phe-arabica-robusta.jpg)
+![Hình ảnh hạt cà phê Arabica và Robusta](/assets/posts/phan-biet-cac-hat-cafe/hat-ca-phe-arabica-robusta.jpg)
 
 Trên thế giới cũng như tại Việt Nam, cà phê Arabica và Robusta là hai trong các loại hạt cà phê được trồng phổ biến nhất. Khắt khe hơn cà phê Robusta, cà phê Arabica đòi hỏi được gieo trồng ở những vùng đất có độ cao cao hơn và có khí hậu mát mẻ hơn. Thời gian để quả cà phê Arabica chín cũng lâu hơn nhưng sản lượng cũng thấp hơn. Chính vì sản lượng thấp nên Arabica lại cho những hạt cà phê có mùi vị thơm ngon hơn và giá thành của nó cũng cao gấp đôi so với cà phê Robusta.
 
