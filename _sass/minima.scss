@@ -47,3 +47,7 @@ $on-laptop: 800px !default;
 
 // Import partials.
 @import "minima/base", "minima/layout", "minima/syntax-highlighting";
+
+body {
+  background-image: url("/assets/background/about-bg.png");
+}
