@@ -3,7 +3,6 @@ layout: post
 title: Cà phê có màu gì?
 date: 2020-11-23T21:21:21.000+07:00
 categories:
-- general
 - caphe
 
 ---
