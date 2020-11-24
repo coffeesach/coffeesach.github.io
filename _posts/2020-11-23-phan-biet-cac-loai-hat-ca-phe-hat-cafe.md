@@ -3,7 +3,6 @@ layout: post
 title: Phân biệt các loại hạt cà phê, hạt cafe
 date: 2020-11-23T01:01:00.000+07:00
 categories:
-- general
 - caphe
 
 ---
