@@ -3,7 +3,6 @@ layout: post
 title: Điều gì làm nên một cốc cà phê tròn vị?
 date: 2020-11-24T16:00:00.000+07:00
 categories:
-- general
 - caphe
 
 ---
