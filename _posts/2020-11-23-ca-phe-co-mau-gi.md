@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Cà phê có màu gì?
-date: 2020-11-23 21:21:21 +0700
-categories: general
----
+date: 2020-11-23T21:21:21.000+07:00
+categories:
+- general
+- caphe
 
-Hầu hết mọi người sẽ nhìn thấy cà phê có màu nâu phải không nè 😋: nâu vàng ngọt của cà phê trứng, nâu sữa của cà phê hoà tan... nhưng cà phê còn có nhiều màu "rực rỡ" lắm nhé ☺️ Các bạn cùng chia sẻ với mình ở post này nha
+---
+Hầu hết mọi người sẽ nhìn thấy cà phê có màu nâu phải không nè 😋: nâu vàng ngọt của cà phê trứng, nâu sữa của cà phê hoà tan... nhưng cà phê còn có nhiều màu "rực rỡ" lắm nhé ☺️ 
 
 ![Cà phê có màu gì?](/assets/posts/cafe-co-mau-gi/1.jpg)
 ![Cà phê có màu gì?](/assets/posts/cafe-co-mau-gi/2.jpg)
