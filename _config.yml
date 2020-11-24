@@ -27,7 +27,7 @@ url: "https://caphesach.app" # the base hostname & protocol for your site, e.g. 
 twitter_username: ""
 github_username: ""
 header_pages:
-  - about.markdown
+  - about.md
 # Build settings
 theme: minima
 minima:
