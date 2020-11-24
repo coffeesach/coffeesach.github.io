@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Phân biệt các loại hạt cà phê, hạt cafe
-date: 2020-11-23 01:01:00 +0700
-categories: general
----
+date: 2020-11-23T01:01:00.000+07:00
+categories:
+- caphe
 
+---
 Mỗi một loại hạt cà phê mang một đặc trưng riêng. Nếu như Arabica thơm quyến rũ với vị đắng ít, chua thanh thì Robusta đắng đậm hơn nhưng hương thơm lại lưu ngắn hơn. Hiểu về đặc trưng của từng loại, người yêu cà phê sẽ biết cách xử lý nhiệt độ thích hợp và kết hợp chúng để cho ra những hương vị cà phê phù hợp với sở thích riêng của mỗi người. Thế giới các loại hạt cà phê phong phú và đa dạng như vậy, bạn đã biết được các loại hạt cà phê phổ biến và đặc trưng của từng loại chưa? Hãy cùng cà phê Trung Nguyên tìm hiểu nhé!
 
 ## 1. Hạt cà phê Culi.
