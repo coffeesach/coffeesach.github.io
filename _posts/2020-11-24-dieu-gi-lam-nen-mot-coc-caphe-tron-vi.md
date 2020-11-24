@@ -13,7 +13,7 @@ categories:
 ![Cà phê có màu gì?](/assets/posts/dieu-gi-lam-nen-mot-coc-cafe-tron-vi/1.jpg)
 ![Cà phê có màu gì?](/assets/posts/dieu-gi-lam-nen-mot-coc-cafe-tron-vi/2.jpg)
 ![Cà phê có màu gì?](/assets/posts/dieu-gi-lam-nen-mot-coc-cafe-tron-vi/3.jpg)
-<video autoplay="autoplay" loop="loop" muted="muted" width="100%" height="100%">
+<video playsinline="playsinline" autoplay="autoplay" loop="loop" muted="muted" width="100%" height="100%">
 <source src="/assets/posts/dieu-gi-lam-nen-mot-coc-cafe-tron-vi/4.mp4" type="video/mp4">
 </video>
 ![Cà phê có màu gì?](/assets/posts/dieu-gi-lam-nen-mot-coc-cafe-tron-vi/5.jpg)
