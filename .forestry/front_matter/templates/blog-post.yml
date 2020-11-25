@@ -14,3 +14,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _posts/ca-phe-ngon-va-cach-th-ng-th-c-m-t-ly-ca-phe-ngon-dung-di-u.md
