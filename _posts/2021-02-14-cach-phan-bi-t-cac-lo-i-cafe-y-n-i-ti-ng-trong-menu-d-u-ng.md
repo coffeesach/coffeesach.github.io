@@ -1,9 +1,9 @@
 ---
-layout: ''
+layout: post
 title: Cách phân biệt các loại cafe Ý nổi tiếng trong menu đồ uống
-date: 
+date: 2021-02-14 00:00:00 +0700
 categories:
-- coffee
+- caphe
 
 ---
 Nếu là người “sành cà phê” chắc hẳn bạn đã từng thưởng thức hoặc nghe về **cafe Ý**. Trên thực tế, cà phê Ý được chia thành nhiều loại, mỗi loại sở hữu những đặc trưng riêng về cách pha chế cũng như hương vị. Hãy cùng META.vn phân biệt các loại cà phê Ý bạn nhé!
