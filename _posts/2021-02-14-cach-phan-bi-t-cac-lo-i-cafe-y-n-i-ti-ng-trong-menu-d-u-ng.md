@@ -8,8 +8,7 @@ categories:
 ---
 Nếu là người “sành cà phê” chắc hẳn bạn đã từng thưởng thức hoặc nghe về **cafe Ý**. Trên thực tế, cà phê Ý được chia thành nhiều loại, mỗi loại sở hữu những đặc trưng riêng về cách pha chế cũng như hương vị. Hãy cùng META.vn phân biệt các loại cà phê Ý bạn nhé!
 
-  
-**Cafe Ý Espresso**
+## **Cafe Ý Espresso**
 
 Espresso ra đời từ những năm 1884 và trở thành một trong các loại cafe Ý được ưa chuộng nhất hiện nay. Để pha Espresso, người ta phải sử dụng một loại máy đặc biệt dưới điều kiện áp suất rất cao. Khi nước được bơm vào, hệ thống ống đồng trong máy sẽ làm nóng nước lên mức trên 90 độ C và dưới 100 độ C. Sau đó, dưới áp lực đẩy, nước chảy qua bột cà phê đang bị nén chặt trong lọc và đổ thẳng ra cốc. Một ly **cafe Ý** Espresso được xem là đạt tiêu chuẩn nếu trên bề mặt có một lớp bọt màu nâu vàng (còn gọi là crema).
 
